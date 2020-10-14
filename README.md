@@ -29,7 +29,9 @@ duration: last contact duration, in seconds (numeric)
 campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 
 Output (desired target):
+
 y - has the client subscribed to a term deposit? (binary)
 
 Goal(s):
+
 Predict if the customer will subscribe (yes/no) to a term deposit (variable y)
